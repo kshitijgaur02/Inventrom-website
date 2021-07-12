@@ -1,0 +1,263 @@
+body,html {
+    margin: 0;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+
+.site-footer {
+    position: relative;
+    background-color: #139139;
+    height: 100px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+
+.footer-section {
+    font-size: 7px;
+    float: left;
+    width: 40%;
+    padding: 0 5% 0 5%;
+    height: 100%;
+    text-align: center;
+    color: #c6c6c6;
+    
+}
+
+.footer-icon {
+    font-size: 15px;
+}
+
+.footer-icon a{
+    padding-left: 10px;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+#up {
+    float: right;
+}
+
+.fa-facebook {
+    color: white;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+  }
+
+#scrollTop{
+    float: right;
+}
+
+
+.inventrom-header {
+    position: fixed;
+    background-color: white;
+    z-index: 1000;
+    width: 100%;
+    left: 0;
+    right: 0;   
+}
+
+.logo {
+    
+    padding-left: 25%;
+}
+
+.inventrom-nav {
+    float: right;
+    padding-right: 25%;
+    height: 100%;
+    
+}
+
+.inventrom-nav a {
+    text-decoration: none;
+    color:  #A6ACAF;
+    font-size: 16px;
+    font-weight: 750;
+    font-family: "Helvetica";
+    padding: 25px;
+    display: inline-block;
+    padding-top: 5%;
+    
+}
+
+.inventrom-nav a:hover{
+    background-color: #139139;
+}
+
+.site-content{
+    position: absolute;
+    top: 40px;
+    width: 100%;
+    
+}
+
+
+
+.back-image {
+    height: 400px;
+    background-image: url("/resources/background-layer.png");
+    text-align: center;
+    width: 100%;
+}
+
+.img-text {
+    width: 100%;
+    position: relative;
+    top: 45%;
+    color: #c6c6c6;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    
+}
+
+#img-anchor {
+    margin-top: 50px;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.About {
+    position: relative;
+    width: 100%;
+    height: 700px;
+    
+}
+.about-header {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #139139;
+    font-weight: 600;
+}
+
+.about-para {
+    text-align: center;
+    font-size: large;
+    font-family: sans-serif;
+    color: #A6ACAF;
+}
+
+.about-img{
+    width: 40%;
+    padding: 5%;
+    float: left;
+    height: 250px;
+    text-align: left;
+    
+}
+
+.about-img img{
+    width: 100%;
+}
+
+.about-img div{
+    font-family: sans-serif;
+}
+
+.about-img div h2 {
+    font-weight: 700;
+}
+
+.about-img div p {
+    font-size: 12px;
+    color: #A6ACAF;
+}
+
+.Awards {
+    position: relative;
+    width:  100%;
+    height: 400px;
+}
+
+.awards-header {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #139139;
+    font-weight: 600;
+}
+
+.awards-img {
+    width: 22%;
+    padding: 1.5%;
+    float: left;
+    text-align: center;
+}
+
+.awards-img img{
+    width: 100%;
+}
+
+.awards-img div{
+    font-family: sans-serif;
+}
+
+.awards-img div h2 {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.awards-img div p{
+    font-size: 11px;
+    color: #A6ACAF;
+}
+
+
+.awards-img div hr{
+    width: 50%;
+}
+
+.Get-in-touch {
+    width: 100%;
+    height: 700px;
+}
+
+.touch-header {
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #139139;
+    font-weight: 600;
+}
+
+.touch-content {
+    width: 40%;
+    padding:0 5% 0% 5%;
+    float: left;
+}
+
+.touch-location {
+    font-family: sans-serif;
+    margin-bottom: 70px;
+}
+
+.touch-location h2{
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.touch-location p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #A6ACAF;
+}
+
+.touch-location span{
+    color: #A6ACAF;
+}
+
+
+
